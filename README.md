@@ -2,8 +2,6 @@
 
 A small 8086 Assembly language program that asks the user for the number of points of a shape, detects what kind of shape it is, and then draws it on screen using VGA graphics mode (13h).
 
-🇪🇬 النسخة العربية موجودة تحت / Arabic version below ⬇️
-
 ✨ Features
 🔢 Shape detection by number of points
 3 points (or fewer) → Triangle
